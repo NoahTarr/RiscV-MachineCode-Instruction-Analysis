@@ -21,7 +21,7 @@ A simple bash file that allows you to enter any RiscV instruction and them print
 ### analyzelog.cpp
 The analysis program I wrote for my class. Its not documented too great, but runs an analysis on the whole log file you pass it and prints out some useful information on it.
 
-![Example Printout](https://github.com/NoahTarr/RiscV-MachineCode-Instruction-Analysis/main/example_analysis_printout.png?raw=true)
+![Example Printout](https://github.com/NoahTarr/RiscV-MachineCode-Instruction-Analysis/blob/main/example_analysis_printout.png)
 
 
 ### Sample instruction logs
